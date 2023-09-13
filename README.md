@@ -15,3 +15,5 @@ Expo Go
 - run npm instalL
 - run npx expo start
 
+## Additional Features
+Open Expo Cloud Account for building and distribution of Apps and optionally download Expo Go App for mobile simulation
