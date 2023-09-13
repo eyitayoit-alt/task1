@@ -12,7 +12,7 @@ Expo Go
 -Install Nodejs and Expo CLI
 - Download the Zip file or fork the respository
 - cd into the project directory
-- run npm instalL
+- run npm install
 - run npx expo start
 
 ## Additional Features
